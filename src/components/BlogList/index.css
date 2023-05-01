@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.blogs-list-container {
+  width: 90%;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0px;
+}
